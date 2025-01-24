@@ -780,6 +780,7 @@ body {
   background-color: #fefefedd;
   cursor: pointer;
   transition: 0.2s;
+  color: #010101;
 }
 .form-mobile-section .form-mobile .submit-btn:hover{
   background-color: #fefefe;
@@ -882,6 +883,8 @@ body {
   transition: 0.2s;
   margin-left: 25px;
   margin-top: 15px;
+  color: #010101;
+
 }
 .form-desktop-section .form-desktop .submit-btn:hover{
   background-color: #fefefe;
