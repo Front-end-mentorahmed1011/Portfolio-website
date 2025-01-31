@@ -4,6 +4,7 @@ import React from "react";
 import E_Commerce_2 from "../Assets/Projects/E-commerce SEF.png"
 import Notes from "../Assets/Projects/Notes.png"
 import Form from "../Assets/Projects/Form.png"
+import tailwind from "../Assets/Projects/Tailwind-project.png"
 const Projects = () => {
 
     const [count , setCount] = useState(1)
@@ -61,11 +62,11 @@ const Projects = () => {
                         </div>
                         <div className="card">
                             <div className="card-data">
-                                <img src={E_Commerce_2} alt="website 2"/>
+                                <img src={tailwind} alt="tail 2"/>
                             </div>
                             <div className="card-overlay">
-                                <h3>E-Commmerce Website</h3>
-                                <a href="https://front-end-mentorahmed1011.github.io/E-commerce-SEF-Project/">Click to review</a>
+                                <h3>tailwind-React Website</h3>
+                                <a href="https://front-end-mentorahmed1011.github.io/tailwind-demo/">Click to review</a>
                             </div>
                         </div>
                         <div className="card">
